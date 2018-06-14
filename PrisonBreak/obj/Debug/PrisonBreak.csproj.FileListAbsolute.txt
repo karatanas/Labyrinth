@@ -1,0 +1,21 @@
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe.config
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.pdb
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.exe
+C:\Users\Алексей\Desktop\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.pdb
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe.config
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.pdb
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csprojResolveAssemblyReference.cache
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csproj.CoreCompileInputs.cache
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PrisonBreak\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.pdb
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csprojResolveAssemblyReference.cache
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.csproj.CoreCompileInputs.cache
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.exe
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\obj\Debug\PrisonBreak.pdb
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe.config
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.exe
+C:\Users\kkara\source\repos\PrisonBreak\PrisonBreak\bin\Debug\PrisonBreak.pdb
